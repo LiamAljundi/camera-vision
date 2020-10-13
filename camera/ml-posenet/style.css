@@ -1,0 +1,18 @@
+.hidden {
+  display: none;
+}
+
+#canvas{
+    width : 100%;
+    height : auto;
+    overflow : auto ;
+    left : 33.6%;
+    border-top : none;
+    text-align : left;
+    margin: 0 auto;
+
+  }
+
+  #video{
+    background-color: aliceblue;
+  }
